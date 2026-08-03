@@ -1,6 +1,3 @@
-# Airline-Customer-Analytics
-End-to-end machine learning project predicting airline customer booking completion, plus a lounge capacity planning model built with pandas, scikit-learn, and Random Forest.
-
 # Airline Customer Booking Prediction & Lounge Capacity Modeling
 
 An applied data science project analyzing airline customer behaviour: predicting
