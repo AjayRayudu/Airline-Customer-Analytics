@@ -35,6 +35,4 @@ Python · pandas · scikit-learn · matplotlib · python-pptx
 See `/lounge_eligibility` and `/booking_prediction` for each component, including
 source code, output charts, and a one-page executive summary deck.
 
-## Author
 
-[Your name] — [link to LinkedIn/portfolio if desired]
