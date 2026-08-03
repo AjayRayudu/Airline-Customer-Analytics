@@ -11,11 +11,11 @@ demand for capacity planning.
 
 This project has two components:
 
-1. **Lounge Capacity Modeling** — a reusable lookup table and methodology for
+1. **Lounge Capacity Modeling**: a reusable lookup table and methodology for
    estimating lounge demand based on customer segment (cabin class, loyalty tier,
    alliance status), designed to support proactive capacity planning at busy hubs.
 
-2. **Booking Prediction Model** — a Random Forest classifier trained on 50,000
+2. **Booking Prediction Model**: a Random Forest classifier trained on 50,000
    customer search sessions to predict booking completion, with feature engineering,
    class imbalance handling, and full evaluation (ROC-AUC, precision/recall,
    cross-validation).
