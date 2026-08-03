@@ -29,7 +29,6 @@ Python · pandas · scikit-learn · matplotlib · python-pptx
 
 ## Structure
 
-See `/lounge_eligibility` and `/booking_prediction` for each component, including
-source code, output charts, and a one-page executive summary deck.
-
-
+1. main.py full pipeline: data prep, feature engineering, model training, evaluation
+2. customer_booking.csv # raw dataset
+3. Booking_Model_Summary_2pager.pptx # 2-page executive summary deck
